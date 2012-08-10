@@ -6,3 +6,6 @@ local.properties
 # OS X Noise
 .DS_Store
 *.swp
+
+#intellij project files 
+*.iml
