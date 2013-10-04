@@ -49,7 +49,6 @@
       <plugin>
 	  	<groupId>com.jayway.maven.plugins.android.generation2</groupId>
 	  	<artifactId>android-maven-plugin</artifactId>
-	  	<version>3.0.0</version>
         <extensions>true</extensions>
         <configuration>
           <androidManifestFile>${project.basedir}/AndroidManifest.xml</androidManifestFile>
